@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently working on Nixos <br>i am a linux enthusiast helping <br>others and i love nixOS reproduction-<br>ability and a grade 10th student 
+# 💫 About ME :
+hi i vaibhav a linux user <br>i am a linux enthusiast helping <br>others and i love nixOS <br> and i use nix btw
 
 
 ## 🌐 Socials:
