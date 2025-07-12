@@ -1,5 +1,5 @@
 # Hey there , I'm Kumar Vaibhav Sinha 
-hi i vaibhav a linux user <br>i am a linux enthusiast helping <br>others and i love nixOS <br> and i use nix btw
+hi i vaibhav a linux user <br>i am a linux enthusiast helping <br>others and i love nixOS Flakes,Home-manager  <br> and i use nix&ubuntu btw<br>Now moved to Ubuntu !!<br>
 
 
 ## 🌐 Socials:
