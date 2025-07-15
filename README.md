@@ -1,5 +1,5 @@
 # Hey there , I'm Kumar Vaibhav Sinha 
-hi i vaibhav a linux user <br>i am a linux enthusiast helping <br>others and i love nixOS Flakes,Home-manager  <br> and i use nix&ubuntu btw<br>Now moved to Ubuntu !!<br>
+Vaibhav is a passionate 10th grader and aspiring Linux developer dedicated to helping others navigate the world of open-source software. With a knack for coding and a love for sharing knowledge, he empowers his peers to embrace Linux and unlock its potential.
 
 
 ## 🌐 Socials:
