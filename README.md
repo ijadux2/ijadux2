@@ -1,29 +1,24 @@
-<h1 align="center">Hi 👋, I'm Kumar Vaibhav</h1>
-<h3 align="center">A Nix user and linux admin (on-going) from India</h3>
+# 👋 Hello, I'm Kumar vaibhav !
 
-- 🔭 I’m currently working in Trinity Global School [as a student](https://trinityglobalschool.com/)
+I'm a passionate developer from Bihar, India, with a strong focus on Linux, Nix, Python, and Bash scripting. I love solving problems and creating efficient solutions through code.
 
-- 🌱 I’m currently learning Nix and Python **nix and python**
+## 🛠️ Skills
 
-- 👯 I’m looking to collaborate on [Toktorov Kurmanbek](https://github.com/Toktorov)
+- **Linux**: Proficient in using and managing Linux systems.
+- **Nix**: Experienced in using Nix for package management and system configuration.
+- **Python**: Skilled in Python programming for various applications, including automation and data analysis.
+- **Bash**: Proficient in writing Bash scripts to automate tasks and improve workflow efficiency.
 
-- 🤝 I’m looking for help with **some linux young minds for collab in codespace**
+## 🌟 About Me
 
-- 👨‍💻 All of my projects are available at Github [https://github.com/ijadux2](https://github.com/ijadux2)
+I am always eager to learn new technologies and improve my skills. I enjoy collaborating with others and contributing to open-source projects. My aesthetic approach to coding ensures that my projects are not only functional but also well-organized and visually appealing.
 
-- Kumar vaibhav [Kumar vaibhav](Kumar vaibhav)
+## 💼 Available for Work
 
-- 💬 Ask me about **linux and desktop management**
+I am currently looking for job opportunities related to my skills. If you have a project or position that you think would be a good fit, feel free to reach out!
 
-- 📫 How to reach me contact on my gmail **kv26102009@gmail.com**
+## 📫 Get in Touch
 
-- ijadux2 [https://github.com/ijadux2](https://github.com/ijadux2)
+- **Email**: kv26102009@gmail.com
 
-- ⚡ Fun fact **i am the worst user of linux !!**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ijadux2&show_icons=true&locale=en&layout=compact" alt="ijadux2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ijadux2&" alt="ijadux2" /></p>
+Thank you for visiting my GitHub portfolio! Let's connect and collaborate!
