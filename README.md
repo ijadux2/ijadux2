@@ -6,17 +6,18 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer from Bihar, India, with a strong focus on **Linux**, **Nix**, **Python**, and **Bash scripting**. I love solving problems and creating efficient solutions through code. My aesthetic approach to coding ensures that my projects are not only functional but also well-organized and visually appealing.
+I'm a passionate developer from India, with a strong focus on **Linux**, **Nix**, **Python**, and **Bash scripting**. I love solving problems and creating efficient solutions through code. My aesthetic approach to coding ensures that my projects are not only functional but also well-organized and visually appealing.
 
 ---
 
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,nixos,python,bash,git,github,vim,neovim" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vim,neovim" alt="Skills" />
 </div>
 
 ### Core Competencies
+
 - **🐧 Linux Systems**: Deep expertise in system administration and optimization
 - **🔧 Nix/NixOS**: Declarative system configuration and package management
 - **🐍 Python Development**: Automation, data analysis, and application development
@@ -28,6 +29,7 @@ I'm a passionate developer from Bihar, India, with a strong focus on **Linux**, 
 ## 📦 Featured Projects
 
 ### 🌟 [Nixi](https://github.com/kumarvaibhav/nixi)
+
 *A hybrid programming language combining the best of multiple paradigms*
 
 ```nix
@@ -39,6 +41,7 @@ in
 ```
 
 **Key Features:**
+
 - 🔄 Multi-paradigm support
 - 📦 Built-in package management
 - 🎯 Type-safe compilation
@@ -47,6 +50,7 @@ in
 ---
 
 ### 🖥️ [Kamui](https://github.com/kumarvaibhav/kamui)
+
 *A minimalist tiling window manager inspired by Japanese aesthetics*
 
 ```bash
@@ -56,6 +60,7 @@ bindsym $mod+d exec rofi -show drun
 ```
 
 **Highlights:**
+
 - 🎌 Minimalist design philosophy
 - ⚡ Lightweight and fast
 - 🔧 Highly configurable
@@ -64,9 +69,11 @@ bindsym $mod+d exec rofi -show drun
 ---
 
 ### ⚙️ [Sway Dotfiles](https://github.com/kumarvaibhav/sway-dotfiles)
+
 *My personal Sway WM configuration for a productive workflow*
 
 **Features:**
+
 - 🎨 Carefully crafted color scheme
 - 📱 Multi-monitor support
 - ⌨️ Efficient keybindings
