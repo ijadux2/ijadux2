@@ -1,125 +1,55 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00ff88&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+Kumar+Vaibhav" alt="Typing SVG" />
+<br clear="both">
+
+<h1 align="center">Hi 👋! My name is Kumar Vaibhav and I'm a Linux user  from India</h1>
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamloY3lqdXRpNWhyc3B0bnVoanBncjU3MXBseW5nMndqZ3hoNXp0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXMHHIJMiLgKwnXTwv/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="30" alt="nixos logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="30" alt="zig logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
 </div>
 
----
+###
 
-## 🚀 About Me
-
-I'm a passionate developer from India, with a strong focus on **Linux**, **Nix**, **Python**, and **Bash scripting**. I love solving problems and creating efficient solutions through code. My aesthetic approach to coding ensures that my projects are not only functional but also well-organized and visually appealing.
-
----
-
-## 🛠️ Technical Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vim,neovim" alt="Skills" />
+<div align="left">
+  <a href="ijadux2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="kv26102009@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="jadux2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
 </div>
 
-### Core Competencies
-
-- **🐧 Linux Systems**: Deep expertise in system administration and optimization
-- **🔧 Nix/NixOS**: Declarative system configuration and package management
-- **🐍 Python Development**: Automation, data analysis, and application development
-- **⚡ Bash Scripting**: Workflow automation and system scripting
-- **🎯 Window Management**: Custom desktop environments and tiling managers
-
----
-
-## 📦 Featured Projects
-
-### 🌟 [Nixi](https://github.com/kumarvaibhav/nixi)
-
-*A hybrid programming language combining the best of multiple paradigms*
-
-```nix
-# Example: Nixi syntax showcase
-let
-  hybrid = python + nix + functional;
-in
-  "Elegant, powerful, and declarative"
-```
-
-**Key Features:**
-
-- 🔄 Multi-paradigm support
-- 📦 Built-in package management
-- 🎯 Type-safe compilation
-- ⚡ High-performance runtime
-
----
-
-### 🖥️ [Kamui](https://github.com/kumarvaibhav/kamui)
-
-*A minimalist tiling window manager inspired by Japanese aesthetics*
-
-```bash
-# Kamui configuration
-bindsym $mod+Return exec alacritty
-bindsym $mod+d exec rofi -show drun
-```
-
-**Highlights:**
-
-- 🎌 Minimalist design philosophy
-- ⚡ Lightweight and fast
-- 🔧 Highly configurable
-- 🎨 Beautiful animations
-
----
-
-### ⚙️ [Sway Dotfiles](https://github.com/kumarvaibhav/sway-dotfiles)
-
-*My personal Sway WM configuration for a productive workflow*
-
-**Features:**
-
-- 🎨 Carefully crafted color scheme
-- 📱 Multi-monitor support
-- ⌨️ Efficient keybindings
-- 🌊 Smooth animations and transitions
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarvaibhav&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1e1e1e&title_color=00ff88&icon_color=00ff88&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarvaibhav&theme=gruvbox&hide_border=true&background=1e1e1e&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakNum=ffffff&currStreakLabel=00ff88" alt="GitHub Streak" />
-</div>
-
----
-
-## 🌱 Current Focus
-
-- 🔭 Exploring **Rust** for systems programming
-- 🌊 Deepening **NixOS** expertise
-- 🎯 Contributing to open-source projects
-- 📚 Learning advanced **functional programming**
-
----
-
-## 💼 Open to Opportunities
-
-I'm actively seeking opportunities where I can apply my skills in Linux systems, Nix configuration, and automation. If you're working on interesting projects that align with my expertise, I'd love to connect!
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-kv26102009@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kv26102009@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kumarvaibhav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarvaibhav)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kumarvaibhav&style=for-the-badge&color=00ff88" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>Thanks for visiting! Let's build something amazing together 🚀</i>
-</div>
+###
