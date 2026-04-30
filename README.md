@@ -8,9 +8,9 @@
 
 It's a pleasure to have you here. I am a developer passionate about building efficient, reproducible systems and crafting the ultimate terminal-based workflow. My focus lies in systems programming and custom Linux environments.
 
-> [!note] Tangled
-> i have switched from github to Tangled
+## Tangled
 
+**I have switched from GitHub to Tangled**
 so most of the projects are being moved to [Tangled](https://tangled.org/ijadux2.tngl.sh)
 
 ---
