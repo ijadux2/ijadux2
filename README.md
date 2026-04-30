@@ -3,15 +3,22 @@
 </p>
 
 # Greetings! I'm Kumar Vaibhav 👋
+
 ### @ijadux2 | Enthusiast of Minimalist Systems & Low-Level Tooling
 
 It's a pleasure to have you here. I am a developer passionate about building efficient, reproducible systems and crafting the ultimate terminal-based workflow. My focus lies in systems programming and custom Linux environments.
+
+> [!note] Tangled
+> i have switched from github to Tangled
+
+so most of the projects are being moved to [Tangled](https://tangled.org/ijadux2.tngl.sh)
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
 **Languages I Speak**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=NixOS&logoColor=white" alt="Nix" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash" />
@@ -20,10 +27,11 @@ It's a pleasure to have you here. I am a developer passionate about building eff
 </p>
 
 **Environment & Workflow**
-* **OS:** Linux (NixOS / Arch)
-* **Editors:** Neovim & Vim (The only way to fly ✈️)
-* **Window Managers:** Tiling enthusiasts (Hyprland, Sway, i3, etc.)
-* **Dotfiles:** Obsessively managed and version controlled.
+
+- **OS:** Linux (NixOS / Arch)
+- **Editors:** Neovim & Vim (The only way to fly ✈️)
+- **Window Managers:** Tiling enthusiasts (Hyprland, Sway, i3, etc.)
+- **Dotfiles:** Obsessively managed and version controlled.
 
 ---
 
@@ -41,10 +49,11 @@ It's a pleasure to have you here. I am a developer passionate about building eff
 
 Feel free to reach out if you want to talk about Nix flakes, Neovim plugins, or the beauty of a well-configured window manager.
 
-* 📧 **Email:** [kv26102009@gmail.com](mailto:kv26102009@gmail.com)
-* 👾 **Discord:** `ijadux2`
+- 📧 **Email:** [kv26102009@gmail.com](mailto:kv26102009@gmail.com)
+- 👾 **Discord:** `ijadux2`
 
 ---
+
 <p align="center">
   <i>"Simplicity is the soul of efficiency."</i>
 </p>
